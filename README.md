@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Clojure and Piano**
 
-- 👯 I’m looking to collaborate on [Gymkhana - IIIT Jabalpur](https://github.com/BitByte-TPC/gymkhana)
-
 - 💬 Ask me about **Java, Python, React, Angular, Django Rest Framework and Spring Boot**
 
 - 📫 How to reach me **sak3t.is@gmail.com**
