@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saket Patel</h1>
-<h3 align="center">A software engineer at Google. Music, philosophy and learning enthusiast.</h3>
+<h3 align="center">A software engineer at Google. Music, philosophy and improvement enthusiast.</h3>
 
 - 🔭 I’m currently working on [Google Cloud VMware Engine](https://cloud.google.com/vmware-engine)
 
