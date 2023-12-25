@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saket Patel</h1>
-<h3 align="center">A software engineer at Google. Music, philosophy and improvement enthusiast.</h3>
+<h3 align="center">A software engineer at Oliv AI. Music, philosophy and programming enthusiast.</h3>
 
 - 🔭 I’m currently working on [Oliv AI: Your sales copilot](https://oliv.ai)
 
