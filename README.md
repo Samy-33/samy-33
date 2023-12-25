@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Saket Patel</h1>
 <h3 align="center">A software engineer at Google. Music, philosophy and improvement enthusiast.</h3>
 
-- 🔭 I’m currently working on [Google Cloud VMware Engine](https://cloud.google.com/vmware-engine)
+- 🔭 I’m currently working on [Oliv AI: Your sales copilot](https://oliv.ai)
 
 - 🌱 I’m currently learning **Clojure and Piano**
 
-- 💬 Ask me about **Java, Python, React, Angular, Django Rest Framework and Spring Boot**
+- 💬 Ask me about **Java, Python, React, Angular, Django Rest Framework, Clojure and Spring Boot**
 
 - 📫 How to reach me **sak3t.is@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/higholtym" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="higholtym" height="30" width="40" /></a>
+<a href="https://twitter.com/saak3t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="higholtym" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saketsm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saketsm" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/c0d3h4ck3d" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="c0d3h4ck3d" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sak3t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sak3t" height="30" width="40" /></a>
